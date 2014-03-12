@@ -61,7 +61,5 @@ public class Test {
         graph.add(edges2);
         graph.add(edges3);
 
-
-        System.out.println(Kruskal(graph));
     }
 }
